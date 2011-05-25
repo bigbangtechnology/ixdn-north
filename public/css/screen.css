@@ -4,6 +4,10 @@ body {
 	font-family: "ff-meta-web-pro-1","ff-meta-web-pro-2", "Helvetica", "Arial", sans-serif;
 }
 
+a:link, a:hover {
+  color:#000000;
+}
+
 #wrapper {
 	width: 1024px;
 	margin: 0 auto;
@@ -154,8 +158,21 @@ h3 {
 	width: 480px;
 	display: block;
 }
+  #intro h2 {
+    margin:0 0 5px 0;
+    font: 10pt/14pt "ff-meta-web-pro-1", "Helvetica", "Arial", sans-serif;
+    text-align:left;
+    font-weight: bold;
+    height:auto;
+    width:auto;
+    padding:initial;
+    background:none;
+    letter-spacing:inherit;
+    text-transform:initial;
+  }
+
 	#intro p {
-		margin-bottom: 10px;
+		margin-bottom: 20px;
 		font: 10pt/14pt "ff-meta-web-pro-1", "Helvetica", "Arial", sans-serif;
 		text-align: left;
 	}
