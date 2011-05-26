@@ -418,6 +418,9 @@ h3 {
 				margin-bottom: 20px;
         clear:left;
 			}
+      .session_description ul {
+        margin-left:20px;
+      }
 				.session_description strong {
 					font-size: 16pt;
 				}
