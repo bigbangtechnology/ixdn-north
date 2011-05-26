@@ -239,6 +239,7 @@ h3 {
         list-style-type:square;
         margin-top:10px;
         margin-bottom:15px;
+        clear:left;
       }
         .session_description ul li {
           margin-bottom:5px;
