@@ -217,9 +217,10 @@ h3 {
 		height: 15px;
 		margin: 0 0 40px 0;
 		display: block;
+    clear:left;
 	}
 		.session_time {
-			width: 90px;
+			width: 120px;
 			display: block;
 			font-weight: bold;
 			font-size: 12pt;
@@ -234,6 +235,20 @@ h3 {
 				font-weight: bold;
 				font-size: 12pt;
 			}
+
+      .session_description ul {
+        list-style-type:square;
+        margin-top:10px;
+        margin-bottom:15px;
+      }
+        .session_description ul li {
+          margin-bottom:5px;
+        }
+
+        .session_description ul ul {
+          color:#666666;
+          margin-left:16px;
+        }
 
 #sponsors {
 	display: none;
