@@ -276,6 +276,10 @@ h2 {
 	
 @media handheld and (max-width: 480px), screen and (max-device-width: 480px), screen and (max-width: 600px)  {
 
+  #content #schedule {
+    height:3050px;
+  }
+
 	#wrapper {
 		width: 480px;
 		margin: 0 auto;
@@ -376,6 +380,14 @@ h2 {
 			font: 16pt/19pt "Helvetica", "Arial", sans-serif;
 			text-align: left;
 		}
+
+    .session dl dt {
+      font:14pt/19pt "Helvetica", "Arial", sans-serif;
+    }
+
+    .session dl dd {
+      font:14pt/19pt "Helvetica", "Arial", sans-serif;
+    }
 
 	
 	#facilitators {
