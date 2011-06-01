@@ -207,6 +207,7 @@ h3 {
 				font-weight: bold;
 			}
 			.facilitator p {
+        font-family: "Helvetica", "Arial", sans-serif;
 				margin: 0 0 15px 0;
 			}
 #schedule {
@@ -251,7 +252,9 @@ h3 {
           color:#666666;
           line-height:1.5em;
           margin-bottom: 20px;
+          font: 10pt/14pt "Helvetica", "Arial", sans-serif;
         }
+
 
 #sponsors {
 	display: none;
@@ -367,7 +370,7 @@ h3 {
 			width: 460px;
 			margin: 0 0px 25px 0;
 			float: none;
-			font: 16pt/19pt "ff-meta-web-pro-1", "Helvetica", "Arial", sans-serif;
+			font: 16pt/19pt "Helvetica", "Arial", sans-serif;
 			text-align: left;
 		}
 	
