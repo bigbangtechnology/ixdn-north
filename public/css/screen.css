@@ -34,8 +34,8 @@ h2 {
 	height: 30px;
 	text-align: right;
 	width: 250px;
-	margin: 0 0 20px -200px;
-	padding: 14px 32px 0 150px;
+	margin: 0 0 20px -207px;
+	padding: 14px 32px 0 152px;
 	background: url(../images/h2.png) no-repeat top right;
 	font: 12pt/11pt "ff-meta-web-pro-1","ff-meta-web-pro-2", "Helvetica", "Arial", sans-serif;
 	font-weight: bold;
@@ -45,8 +45,8 @@ h2 {
 }
 	#h2_schedule {
 		width: 105px;
-		margin: 0 0 20px -215px;
-		padding: 14px 32px 0 190px;		
+		margin: 0 0 20px -207px;
+		padding: 14px 32px 0 179px;		
 	}
 
 	#h2_sponsors {
