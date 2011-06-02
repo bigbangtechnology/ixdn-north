@@ -21,6 +21,12 @@ a:link, a:hover {
 
 p.signup_cta a {
   font: 16pt/19pt "ff-meta-web-pro-1", "Helvetica", "Arial", sans-serif;
+  width:141px; 
+  height:31px;
+  background:url('../images/signup_link.gif');
+  text-indent:-9999em;
+  display:block;
+  margin-bottom:30px;
 }
 
 h1 {
@@ -132,6 +138,11 @@ h2 {
 			padding: 5px 0 0 21px;
 			background: #bcd52f url(../images/menu_buy.jpg) no-repeat;
 		}
+
+    #menu #buy:hover {
+      font-weight:bold;
+    }
+
 		#menu #menu_details {
 			font-size: 9pt;
 			margin: 25px 0 0 20px;
