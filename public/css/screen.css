@@ -81,7 +81,7 @@ h2 {
 #content {
 	width: 880px;
 	margin: 0;
-	padding: 30px 0 0 200px;
+	padding: 30px 0 100px 200px;
 	float: left;
 	background: url(../images/background.jpg) repeat-y;
 }
@@ -93,7 +93,7 @@ h2 {
 	
 #menu {
 	width: 192px;
-	height: 1600px;
+	height: 5000px;
 	margin-left: 760px;
 	padding: 75px 0 0 0px;
 	background: #78947b;
@@ -183,7 +183,6 @@ h2 {
 
 #facilitators {
 	width: 480px;
-	height: 564px;
 	margin: 50px 0 0 0;
 	display: block;
 }
@@ -216,7 +215,6 @@ h2 {
 			}
 #schedule {
 	width: 480px;
-	height: 2100px;
 }
 	.session {
 		margin: 0 0 40px 0;
