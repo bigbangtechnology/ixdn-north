@@ -120,7 +120,6 @@ h2 {
 		padding-left: 10px;
 	}
 		#menu a:hover {
-			font-weight: bold;
 			background: url(../images/menu_item.jpg) no-repeat -8px 0px;
 		}
 		#menu a:active {
