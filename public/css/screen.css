@@ -28,6 +28,7 @@ h1 {
 	margin: 0 0 30px 0;
 	font: 16pt/24pt "ff-meta-web-pro-1","ff-meta-web-pro-2", "Helvetica", "Arial", sans-serif;
 	letter-spacing: -0.05em;
+  line-height:1.2em;
 }
 
 h2 {
@@ -138,6 +139,7 @@ h2 {
 		}
 			#menu_details p {
 				margin: 15px 0 15px 0;
+        font-weight:bold;
 			}
 			#menu_details a:hover {
 				background: none;
