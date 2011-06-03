@@ -35,7 +35,10 @@ h1 {
 	font: 16pt/24pt "ff-meta-web-pro-1","ff-meta-web-pro-2", "Helvetica", "Arial", sans-serif;
 	letter-spacing: -0.05em;
   line-height:1.2em;
+  color:#666666;
 }
+
+h1 strong { color:#000; }
 
 h2 {
 	height: 30px;
