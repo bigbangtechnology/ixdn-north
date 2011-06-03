@@ -42,7 +42,7 @@ h2 {
 	text-align: right;
 	width: 250px;
 	margin: 0 0 20px -207px;
-	padding: 14px 32px 0 152px;
+	padding: 14px 32px 0 124px;
 	background: url(../images/h2.png) no-repeat top right;
 	font: 12pt/11pt "ff-meta-web-pro-1","ff-meta-web-pro-2", "Helvetica", "Arial", sans-serif;
 	font-weight: bold;
@@ -53,7 +53,7 @@ h2 {
 	#h2_schedule {
 		width: 105px;
 		margin: 0 0 20px -207px;
-		padding: 14px 32px 0 179px;		
+		padding: 14px 32px 0 164px;		
 	}
 
 	#h2_sponsors {
@@ -287,11 +287,7 @@ h2 {
 	
 @media handheld and (max-width: 480px), screen and (max-device-width: 480px), screen and (max-width: 600px)  {
 
-  #content #schedule {
-    height:3050px;
-  }
-
-	#wrapper {
+  #wrapper {
 		width: 480px;
 		margin: 0 auto;
 	}
@@ -437,7 +433,6 @@ h2 {
 	
 	#schedule {
 		width: 460px;
-		height: 580px;
 		margin: 10px 0 0 0;
 		display: block;
 	}
