@@ -1,0 +1,3 @@
+auto: true
+lsi: false
+exclude: [ Gemfile, Gemfile.lock, Procfile, tmp, README ]
